@@ -16,12 +16,6 @@ The game aims to combat social isolation and cognitive decline by leveraging **r
 
 Key themes such as nostalgia for family, music, and traditional activities guided the game's design. Preliminary observations revealed enthusiasm for voice assistants despite initial usability challenges, underscoring the potential of accessible technology to foster connection.
 
-## 📄 Descargar Artículo
-
-Puedes leer el artículo completo en formato PDF aquí:
-
-👉 **[Leer Paper Completo (PDF)](./CEV_2025_paper_15_ACTUALIZADO.pdf)**
-
 ## 👩‍💻 Autores
 
 * **Cristina del Aguila-Martin** (Universidad de Granada)
